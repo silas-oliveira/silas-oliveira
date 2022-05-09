@@ -1,6 +1,6 @@
-## Olá! Eu sou o Silas Oliveira
+# `Hello, 𝐭𝐡𝐞𝐫𝐞!!`
 
-- Tryber Student
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=f9e1de&vCenter=true&multiline=true&height=80&lines=My+name+is+Silas,;a+guy+passionate+about+technology)
 
 <div align="center">
   <a href="https://github.com/silas-oliveira">
