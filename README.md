@@ -2,11 +2,17 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=f9e1de&vCenter=true&multiline=true&height=80&lines=My+name+is+Silas,;a+guy+passionate+about+technology)
 
+---
+
 <div align="center">
   <a href="https://github.com/silas-oliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silas-oliveira&show_icons=true&custom_title=GitHub%20Stats&bg_color=5,000304,5d040a,e1001a&title_color=fff&text_color=fff&icon_color=fff"&include_all_commits=true&count_private=true/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silas-oliveira&layout=compact&langs_count=7&&custom_title=GitHub%20Stats&bg_color=5,e1001a,5d040a,000304&title_color=fff&text_color=fff&icon_color=fff"/>
 </div>
+  
+---
+  
+## Main languages and tools
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Silas-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,6 +41,9 @@
   </div>
 
 <div>
+  
+---
+  
 <!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
