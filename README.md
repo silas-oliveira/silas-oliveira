@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/silas-oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silas-oliveira&show_icons=true&custom_title=GitHub%20Stats&bg_color=30,000304,5d040a,e1001a&title_color=fff&text_color=fff&icon_color=fff"&include_all_commits=true&count_private=true/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silas-oliveira&layout=compact&langs_count=7&&custom_title=GitHub%20Stats&bg_color=30,000304,5d040a,e1001a&title_color=fff&text_color=fff&icon_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silas-oliveira&show_icons=true&custom_title=GitHub%20Stats&bg_color=5,000304,5d040a,e1001a&title_color=fff&text_color=fff&icon_color=fff"&include_all_commits=true&count_private=true/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silas-oliveira&layout=compact&langs_count=7&&custom_title=GitHub%20Stats&bg_color=5,e1001a,5d040a,000304&title_color=fff&text_color=fff&icon_color=fff"/>
 </div>
   
   <div style="display: inline_block"><br>
