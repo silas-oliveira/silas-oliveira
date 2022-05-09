@@ -21,9 +21,10 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          palette: github-dark
-          color_snake: red
-          color_dots: red
+          palette: dist/github-snake.svg
+          color_snake: dist/github-snake-dark.svg?palette=github-dark
+          color_dots: dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
