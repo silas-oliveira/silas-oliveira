@@ -55,6 +55,6 @@
   
 ## Contact me
 
-[![GitHub badge](https://img.shields.io/badge/GitHub-005e8d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silas-oliveira)
-[![Gmail badge](https://img.shields.io/badge/Gmail-005e8d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silas.oliveira.dev@gmail.com)
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-005e8d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-oliveira-585b98209/)
+[![GitHub badge](https://img.shields.io/badge/GitHub-005e8d?style=for-the-badge&logo=github&logoColor=white&color=5d040a)](https://github.com/silas-oliveira)
+[![Gmail badge](https://img.shields.io/badge/Gmail-005e8d?style=for-the-badge&logo=gmail&logoColor=white&color=5d040a)](mailto:silas.oliveira.dev@gmail.com)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-005e8d?style=for-the-badge&logo=linkedin&logoColor=white&color=5d040a)](https://www.linkedin.com/in/silas-oliveira-585b98209/)
