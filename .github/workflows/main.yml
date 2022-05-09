@@ -22,6 +22,8 @@ jobs:
           target_branch: output
           build_dir: dist
           palette: github-dark
+          color_snake: red
+          color_dots: red
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
