@@ -52,6 +52,9 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
  
   ![Snake animation](https://github.com/silas-oliveira/silas-oliveira/blob/output/github-contribution-grid-snake.svg)
-</div>
+  
+## Contact me
 
-</div>
+[![GitHub badge](https://img.shields.io/badge/GitHub-005e8d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silas-oliveira)
+[![Gmail badge](https://img.shields.io/badge/Gmail-005e8d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silas.oliveira.dev@gmail.com)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-005e8d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-oliveira-585b98209/)
