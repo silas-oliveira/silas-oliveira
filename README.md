@@ -2,6 +2,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=f9e1de&vCenter=true&multiline=true&height=80&lines=My+name+is+Silas,;a+guy+passionate+about+technology)
 
+- ##### `Amo aprender coisas novas, e conhecer pessoas novas também`.
+- ##### `A área de tecnologia para mim é perfeita, porquê nunca vai existir estagnação, é simplesmente impossível aprender tudo. Isso me deixa extremamente fascinado, justamente pelas oportunidades de aprendizado que eu sempre vou ter`.
+- ##### `Amo atividades fisicas, como natação 🏊, musculação 💪, vôlei 🏐, dança 🕺...` *E quase todas as outras*...
+- ##### `Sou curioso e extremamente empolgado, busco uma oportunidadade para atuar como dev Full Stack e agregar todo meu tempo de estudo e novos conhecimentos, em prol de grandes instituições`.
+
 ---
 
 <div align="center">
